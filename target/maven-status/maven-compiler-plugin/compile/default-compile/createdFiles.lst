@@ -1,0 +1,16 @@
+com\lapelucanina\peluqueriacanina\PeluqueriaCanina.class
+com\lapelucanina\peluqueriacanina\persistencia\exceptions\IllegalOrphanException.class
+com\lapelucanina\peluqueriacanina\persistencia\exceptions\PreexistingEntityException.class
+com\lapelucanina\peluqueriacanina\igu\Principal$1.class
+com\lapelucanina\peluqueriacanina\persistencia\exceptions\NonexistentEntityException.class
+com\lapelucanina\peluqueriacanina\logica\Mascota_.class
+com\lapelucanina\peluqueriacanina\igu\Principal.class
+com\lapelucanina\peluqueriacanina\logica\Duenio.class
+com\lapelucanina\peluqueriacanina\persistencia\DuenioJpaController.class
+com\lapelucanina\peluqueriacanina\logica\Duenio_.class
+com\lapelucanina\peluqueriacanina\logica\Mascota.class
+com\lapelucanina\peluqueriacanina\logica\Controlador.class
+com\lapelucanina\peluqueriacanina\igu\CargaDatos$1.class
+com\lapelucanina\peluqueriacanina\igu\CargaDatos.class
+com\lapelucanina\peluqueriacanina\persistencia\MascotaJpaController.class
+com\lapelucanina\peluqueriacanina\persistencia\ControladorPersistencia.class
